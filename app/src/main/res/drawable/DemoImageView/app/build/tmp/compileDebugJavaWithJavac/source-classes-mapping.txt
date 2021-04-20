@@ -1,0 +1,4 @@
+sg/edu/rp/c346/julien/demoimageview/MainActivity.java
+ sg.edu.rp.c346.julien.demoimageview.MainActivity
+sg/edu/rp/c346/julien/demoimageview/BuildConfig.java
+ sg.edu.rp.c346.julien.demoimageview.BuildConfig
